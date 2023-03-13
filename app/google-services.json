@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "512807046035",
+    "project_id": "nigerian-notes-app",
+    "storage_bucket": "nigerian-notes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512807046035:android:e5d6fc66b27fc5506cf666",
+        "android_client_info": {
+          "package_name": "com.tochy.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512807046035-5gfgams2crhginkolido9pkkko64uf0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tochy.notesapp",
+            "certificate_hash": "3c29d14240958c4f80fb79a7ded81547fb744100"
+          }
+        },
+        {
+          "client_id": "512807046035-0te4hsrq72fvsn2efdg87a6mmrflhbn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPwMmupiAv1e2UruTg0kHL-Qqm0PI6R1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512807046035-0te4hsrq72fvsn2efdg87a6mmrflhbn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
